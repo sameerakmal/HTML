@@ -1,0 +1,29 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.con{
+   border: 3px solid black; 
+   display: flex;
+   gap: 20px;
+    background-color: black;
+    flex-direction: row-reverse;
+}
+button{
+    font-size: 20px;
+    background-color: rgb(0, 0, 0);
+    border: none;
+    
+}
+/* button:hover{
+    background-color:
+} */
+a:link{
+    color: yellow;
+}
+a:hover{
+    color:white;
+}
+a{
+    text-decoration: none;
+}
